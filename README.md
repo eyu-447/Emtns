@@ -1,4 +1,4 @@
-# EMTNS
+# EMTNS Verion 1.0.0
 **A lightweight C tool to uncover hidden image metadata and binary details.**
 
 ## Features
